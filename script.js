@@ -1,5 +1,11 @@
 //complete this code
-class Person {}
+class Person {
+	Person(let name,let age){
+		this.name = name;
+		this.age = age;
+	}
+	
+}
 
 class Student extends Person {}
 
